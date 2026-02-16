@@ -3,8 +3,7 @@
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B3nio-pata-857006175/)
 
 [![António Pata GitHub stats](https://github-readme-stats.vercel.app/api?username=APata7&show_icons=true&theme=dracula)](https://github.com/APata7)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APata7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APata7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia Que Eu Uso
 
@@ -22,5 +21,5 @@
 "O saber não ocupa lugar". <br/><br/>
 
 Formador/Docente Informática e de Electrónica.<br/>
-Licenciado em Engenharia Electrotécnica e de Computadores pelo Instituto Politécnico de Tomar.
+Licenciado em Engenharia Electrotécnica e de Computadores pelo Instituto Politécnico de Tomar. <br/>
 Licenciado em Educação pela Universidade Aberta.
