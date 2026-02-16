@@ -21,4 +21,5 @@
 "O saber não ocupa lugar". <br/><br/>
 
 Formador/Docente Informática e de Electrónica.<br/>
-Licenciado em Engenharia Electrotécnica e de Computadores.
+Licenciado em Engenharia Electrotécnica e de Computadores pelo Instituto Politécnico de Tomar.
+Licenciado em Educação pela Universidade Aberta.
