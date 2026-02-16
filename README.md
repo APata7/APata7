@@ -4,7 +4,7 @@
 
 
 
-## Tecnologia Que Eu Uso
+## As Tecnologias Que Eu Uso
 
 <div style="display: inline_block">
 <img alt="html5" align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
