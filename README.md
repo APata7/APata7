@@ -4,6 +4,9 @@
 
 [![António Pata GitHub stats](https://github-readme-stats.vercel.app/api?username=APata7&show_icons=true&theme=dracula)](https://github.com/anuraghazra)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APata7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ## Tecnologia Que Eu Uso
 
