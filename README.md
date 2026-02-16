@@ -2,7 +2,7 @@
 
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B3nio-pata-857006175/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Apata=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![António Pata GitHub stats](https://github-readme-stats.vercel.app/api?username=APata7&show_icons=true&theme=dracula)](https://github.com/APata7)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APata7&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologia Que Eu Uso
